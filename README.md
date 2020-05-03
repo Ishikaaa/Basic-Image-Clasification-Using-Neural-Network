@@ -8,7 +8,7 @@ In this course, I focused on three learning objectives:
 
 By the end of this course, I was able to create a neural network model which is able to classify images of hand written digits with a high degree of accuracy.
 
-**Project Structure** - 
+##Project Structure - 
 
 * Task 1: Introduction
 * Task 2: The Dataset
